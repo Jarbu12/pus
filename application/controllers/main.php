@@ -30,6 +30,11 @@ class main extends CI_Controller {
 		$this->load->view('design/footer',$data);
 	    }
 	}
+	
+	public function string_format()
+	{
+		
+	}
 
 	public function simpan_jurnal()
 	{
