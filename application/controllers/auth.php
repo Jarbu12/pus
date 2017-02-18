@@ -106,8 +106,4 @@ class auth extends CI_Controller {
            redirect('master=auth','refresh');
            ob_end_flush();
 	}
-	
-	public function testing()
-	{
-		echo "gara gara git";
 }
