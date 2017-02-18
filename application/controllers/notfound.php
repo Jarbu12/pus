@@ -7,4 +7,11 @@ class Blank extends CI_Controller {
 	{
 		$this->load->view('blank');
 	}
+	
+	public function testing ()
+	{
+		
+	}
 }
+
+
