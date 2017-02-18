@@ -111,3 +111,10 @@ class auth extends CI_Controller {
 	{
 		echo "gara gara git";
 }
+
+	public function testing dua lagi ()
+	{
+		echo "nyobain lagi ";
+		
+	}
+}
