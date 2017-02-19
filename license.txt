@@ -8,17 +8,9 @@ Institute of Technology for the use of CodeIgniter Software (the
 and conditions of this license.
 
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 PERMITTED USE
 You are permitted to use, copy, modify, and distribute the Soft
-=======
-PERMITTED USE
-You are permitted to use, copy, modify, and distribute the Software and its
-documentation, with or without modification, for any purpose, provided that
-the following conditions are met:
-
->>>>>>> parent of 7b495b5... obsolete branch
 1. A copy of this license agreement must be included with the distribution.
 
 2. Redistributions of source code must retain the above copyright notice in
@@ -58,7 +50,4 @@ WITH THE SOFTWARE. LICENSE HOLDERS ARE SOLELY RESPONSIBLE FOR DETERMINING THE
 APPROPRIATENESS OF USE AND ASSUME ALL RISKS ASSOCIATED WITH ITS USE, INCLUDING
 BUT NOT LIMITED TO THE RISKS OF PROGRAM ERRORS, DAMAGE TO EQUIPMENT, LOSS OF
 DATA OR SOFTWARE PROGRAMS, OR UNAVAILABILITY OR INTERRUPTION OF OPERATIONS.
-<<<<<<< HEAD
 >>>>>>> dae5c61... pickup this
-=======
->>>>>>> parent of 7b495b5... obsolete branch
